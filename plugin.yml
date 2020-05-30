@@ -1,0 +1,6 @@
+name: old
+main: old\Main 
+version: 1.0.0
+api: 3.0.0
+author: tinko
+description: unko
